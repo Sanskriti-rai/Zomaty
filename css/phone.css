@@ -1,0 +1,46 @@
+/*navigation*/
+#navbar{
+	flex-direction: column;
+}
+#navbar ul li a{
+	font-size: 1rem;
+	padding: 0px 6px;
+	padding-bottom: 30px;
+}
+
+/*home section*/
+#home{
+	height: 599px;
+	flex-direction: column;
+	padding: 3px 2px;
+}
+
+#home::before{
+	height: 600px;
+
+}
+
+#home p{
+	font-size: 15px;
+}
+
+.h-1{
+	font-size: 20px;
+}
+
+.btn{
+	font-size: 13px;
+	padding: 4px;
+}
+
+/*services section*/
+#Services{
+	flex-direction: column;
+}
+
+
+/*contact*/
+
+
+
+/*footer*/
